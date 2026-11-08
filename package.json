@@ -1,0 +1,16 @@
+{
+  "name": "rep-with-me-command-center",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Rep With Me marketing command center for The Practice by InnerBoard",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "plan": "python3 build.py"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}

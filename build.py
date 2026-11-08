@@ -2,18 +2,22 @@
 
     python3 build.py
 
-Outputs (in dist/):
-  command_center.html  -> uploaded to Google Drive as a Google Doc
-  daily_tracker.csv    -> uploaded to Google Drive as a Google Sheet
+Outputs:
+  exports/command_center.html  -> uploaded to Google Drive as a Google Doc
+  exports/daily_tracker.csv    -> uploaded to Google Drive as a Google Sheet
+  src/data/plan.json           -> data for the Vite web app (deployed on Vercel)
 """
 import csv
+import json
 import html
 import pathlib
 import sys
 
 from command_center import brand, calendar_plan, formats, intel
 
-DIST = pathlib.Path(__file__).parent / "dist"
+ROOT = pathlib.Path(__file__).parent
+DIST = ROOT / "exports"
+WEB_DATA = ROOT / "src" / "data" / "plan.json"
 NAVY, CREAM, GOLD = "#1B2A41", "#F7F1E6", "#B08D57"
 
 
@@ -193,11 +197,44 @@ def build_csv(path):
                         d["title"], d["rep"], d["hook_text"], s["setup"], "FALSE", "", "", "", "", "", "", ""])
 
 
+def build_json():
+    days = []
+    for date, wd, wi, d in calendar_plan.schedule():
+        s = formats.SERIES[wd]
+        setups = [k for k in s["setup"].replace(" ", "").split("+")]
+        days.append({**d, "date": date.isoformat(), "weekday": wd, "week": wi,
+                     "series": s["name"], "format": s["fmt"], "time": s["time"], "setups": setups})
+    return {
+        "founder": brand.FOUNDER,
+        "campaign": brand.CAMPAIGN,
+        "architecture": brand.ARCHITECTURE,
+        "coreLines": brand.CORE_LINES,
+        "appRhythm": brand.APP_RHYTHM,
+        "realReps": brand.REAL_REPS,
+        "audiences": brand.AUDIENCE_LANES,
+        "visual": brand.VISUAL,
+        "guardrails": brand.GUARDRAILS,
+        "series": formats.SERIES,
+        "setups": {k: {"name": n, "tips": t} for k, (n, t) in formats.SETUPS.items()},
+        "routine": formats.DAILY_ROUTINE,
+        "funRules": formats.FUN_RULES,
+        "growth": formats.GROWTH_ENGINE,
+        "creators": intel.CREATORS,
+        "platform": intel.PLATFORM_PLAYBOOK,
+        "sources": intel.SOURCES,
+        "weeks": calendar_plan.WEEKS,
+        "days": days,
+    }
+
+
 def main():
     validate()
     DIST.mkdir(exist_ok=True)
     (DIST / "command_center.html").write_text(build_doc(), encoding="utf-8")
     build_csv(DIST / "daily_tracker.csv")
+    WEB_DATA.parent.mkdir(parents=True, exist_ok=True)
+    WEB_DATA.write_text(json.dumps(build_json(), indent=1, ensure_ascii=False), encoding="utf-8")
+    print(f"{WEB_DATA.relative_to(ROOT)}: {WEB_DATA.stat().st_size:,} bytes")
     for f in sorted(DIST.iterdir()):
         print(f"{f.name}: {f.stat().st_size:,} bytes")
 

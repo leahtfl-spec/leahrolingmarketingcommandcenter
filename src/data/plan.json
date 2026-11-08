@@ -1,0 +1,1376 @@
+{
+ "founder": "Leah Roling",
+ "campaign": {
+  "name": "REP WITH ME",
+  "tagline": "Let's make life sexy again. One rep at a time.",
+  "promise": "Every day the app drops a new rep. Every day I do it with you, on camera, out loud, and a little ridiculous. You are not doing your life alone.",
+  "north_star": "10,000 reps done together by Dec 31 (tracked as public 'IN' comments + story tags + app completions).",
+  "hashtags": [
+   "#RepWithMe",
+   "#LifeTakesReps",
+   "#ThePracticeClub",
+   "#RepCrew"
+  ],
+  "community_name": "The Rep Crew",
+  "keyword": "IN"
+ },
+ "architecture": [
+  [
+   "InnerBoard",
+   "The methodology",
+   "The frameworks, models and tools behind everything: how we think, feel, decide, act, relate and lead. Mission: the way we think, feel and respond are skills we can learn, strengthen and practice."
+  ],
+  [
+   "The Practice (Practice by InnerBoard)",
+   "The platform people use",
+   "Daily AI practice coach, the Daily Rep / Dare, courses, live sessions and community, tools for the moment. Houses Academy, InnerLab, INQ Certification and IOS."
+  ],
+  [
+   "The Practice Club (TPC)",
+   "The movement people belong to",
+   "The culture, language, merch and sense of belonging. For the people doing the work. EST. 2026."
+  ],
+  [
+   "InnerBoard Academy",
+   "Learn it",
+   "Courses to own: Money, Purpose, Health, Spiritual, Teens, Work, Young Adult, Transitions, Grief, Relationships."
+  ],
+  [
+   "INQ Certification",
+   "Lead it",
+   "Coach the change that actually changes people."
+  ],
+  [
+   "InnerBoard IOS",
+   "Scale it",
+   "The people operating system for organizations."
+  ]
+ ],
+ "coreLines": [
+  "You get one life. Let's get good at living it.",
+  "Life takes reps. Better takes practice.",
+  "For the people doing the work.",
+  "Reps over regret.",
+  "Be your own proof.",
+  "Bring one thing. Let's start there.",
+  "Life doesn't come with a manual. Now you have a Practice.",
+  "You don't need a different life, just a new way to meet this one."
+ ],
+ "appRhythm": [
+  [
+   "Morning",
+   "Two Minutes",
+   "Who do you choose to be today?"
+  ],
+  [
+   "Morning",
+   "Today's Rep",
+   "A new rep every day. One small thing to do before the day ends."
+  ],
+  [
+   "Daily",
+   "Your daily quote",
+   "Today's quote is ready."
+  ],
+  [
+   "Evening",
+   "Close the Day",
+   "Your three, and who you wanted to be."
+  ],
+  [
+   "Night",
+   "3-2-1",
+   "One hour to bed. Screens down when you're ready."
+  ],
+  [
+   "Friday",
+   "Before you close the week",
+   "Notice what went well, what you learned, what you're ready to let go of."
+  ],
+  [
+   "Sunday",
+   "Set the Week",
+   "Sixty minutes that decide the next seven days."
+  ]
+ ],
+ "realReps": [
+  [
+   "Nov 1",
+   "Say no to one thing today that you'd usually say yes to out of habit."
+  ],
+  [
+   "Nov 2",
+   "Before you answer one message today, take one full breath first."
+  ],
+  [
+   "Nov 3",
+   "Tell someone exactly what you appreciate about them, in one sentence."
+  ],
+  [
+   "Nov 4",
+   "Give yourself five minutes with something you genuinely enjoy. No need to make it productive."
+  ],
+  [
+   "Nov 7",
+   "At the end of today, pick one ordinary moment you would gladly experience again."
+  ],
+  [
+   "Nov 8",
+   "Ask someone you care about how they are doing, and give their answer a little room."
+  ]
+ ],
+ "audiences": [
+  [
+   "The 'good life but' woman",
+   "I have a good life. Why don't I feel better living it?"
+  ],
+  [
+   "Moms of teens and young adults",
+   "There's no manual for this."
+  ],
+  [
+   "Partners in a rut",
+   "Why do we keep having the same argument?"
+  ],
+  [
+   "The avoider",
+   "What is the conversation I'm not having costing me?"
+  ],
+  [
+   "Founders and practice owners (dental world)",
+   "Why does every decision still come back to me?"
+  ],
+  [
+   "Leaders without the title",
+   "How do I think through this instead of reacting?"
+  ]
+ ],
+ "visual": {
+  "palette": "Warm ivory / cream, deep navy, antique gold accents, forest green for Practice moments. Never heavy pink.",
+  "type": "Fraunces-style serif headlines, clean sans body, gold italic for one emphasised phrase.",
+  "feel": "Premium collegiate club meets golden-hour lifestyle. Confident, warm, a little cheeky. Premium in experience, inclusive in spirit.",
+  "merch": "The Practice Club Tee (cream), The Club Hoodie (cream), Life Takes Reps Cap (navy), The Monogram Hoodie (navy)."
+ },
+ "guardrails": [
+  "Show the real app. Screen-record real reps and real coaching. Never fake an AI response and present it as real.",
+  "No unverified claims: no trial offers, pricing, outcomes or testimonials without approval and permission.",
+  "No em dashes in on-screen text or captions (brand rule from the Suite brief).",
+  "Sexy means alive, confident, present and fun. Never body-shaming, never thirst-trap. Life is the sexy part.",
+  "Grief, money and hard-season reps get warmth, not jokes. Read the room on the day."
+ ],
+ "series": {
+  "Mon": {
+   "name": "REP DROP",
+   "fmt": "Reel, 20-35s",
+   "time": "11:30 AM",
+   "why": "Kick off the week. Show the app, read the rep, react, do it, invite. The signature format.",
+   "setup": "A + D"
+  },
+  "Tue": {
+   "name": "REP IN THE WILD",
+   "fmt": "Reel, 15-30s",
+   "time": "11:30 AM",
+   "why": "Do the rep out in real life: coffee shop, office, car line, grocery store. Candid, funny, proof it fits a normal day.",
+   "setup": "C"
+  },
+  "Wed": {
+   "name": "WHY THIS REP WORKS",
+   "fmt": "Carousel, 7 slides (4:5)",
+   "time": "8:00 AM",
+   "why": "The InnerBoard thinking behind the rep. Built to be saved and DM'd to a rep partner.",
+   "setup": "G"
+  },
+  "Thu": {
+   "name": "REP DUET",
+   "fmt": "Collab Reel, 20-40s",
+   "time": "11:30 AM",
+   "why": "Do the rep with a guest (friend, client, teammate, family). Invite them as a Collaborator so it hits both audiences.",
+   "setup": "F"
+  },
+  "Fri": {
+   "name": "ROLL CALL",
+   "fmt": "Reel montage, 20-40s",
+   "time": "11:30 AM",
+   "why": "Celebrate the Rep Crew by name. Their stories, comments and DMs are the content. Being seen is the reward.",
+   "setup": "A + D"
+  },
+  "Sat": {
+   "name": "LIFE LOOKS GOOD",
+   "fmt": "Lifestyle Reel, 10-20s, trending audio",
+   "time": "10:00 AM",
+   "why": "Make life sexy. Golden-hour, merch, joy, the ordinary moment made beautiful. Reach beyond the growth crowd.",
+   "setup": "E"
+  },
+  "Sun": {
+   "name": "SET THE WEEK",
+   "fmt": "IG Live + Facebook Group Live, 20 min; then a 30s clip",
+   "time": "7:00 PM Live",
+   "why": "Mirrors the app's Sunday 'Set the Week'. Live with the crew, preview the week, pick one rep together.",
+   "setup": "H"
+  }
+ },
+ "setups": {
+  "A": {
+   "name": "Kitchen Counter",
+   "tips": [
+    "Phone on tripod at eye level, vertical 9:16, 4K 30fps, back camera (use a flip mirror or the Edits app preview).",
+    "Face a window, light at 45 degrees. Cream wall or open shelves behind you. Gold mug or flowers in frame.",
+    "Clip-on mic (DJI Mic or similar). Frame chest-up with headroom for captions.",
+    "Talk to one person in the lens. First line within the first second, no 'hey guys'."
+   ]
+  },
+  "B": {
+   "name": "Car Confessional",
+   "tips": [
+    "Parked. Phone on dash or vent mount, facing a side window for soft light.",
+    "Best for raw, honest reps and 'I almost didn't do this one' energy. Engine off, AC off for sound."
+   ]
+  },
+  "C": {
+   "name": "In the Wild",
+   "tips": [
+    "Handheld at arm's length, 1x lens (0.5x distorts faces), or hand the phone to a friend.",
+    "Grab 3 shots: you arriving (wide), you doing the rep (medium), your reaction after (close).",
+    "Wind muff on the mic outdoors. Ask permission before filming anyone's face; film hands, backs or reactions otherwise."
+   ]
+  },
+  "D": {
+   "name": "App POV",
+   "tips": [
+    "Screen-record the real Practice app: notification, Today's Rep screen, the tap to complete (Control Center > Screen Recording).",
+    "Plus an over-the-shoulder shot of your thumb opening the notification with coffee in the other hand.",
+    "Always real app footage. Never simulate a coaching response."
+   ]
+  },
+  "E": {
+   "name": "Golden Hour Lifestyle",
+   "tips": [
+    "The hour before sunset. Shoot 6-10 B-roll clips of 3-5 seconds each; 60fps for slow motion.",
+    "Wear the merch (Club Hoodie, Life Takes Reps cap). Movement in every clip: walking, laughing, pouring, spinning.",
+    "Edit to a trending audio in the Edits app or CapCut; one line of on-screen text, no talking needed."
+   ]
+  },
+  "F": {
+   "name": "Two-Shot Duet",
+   "tips": [
+    "Two people on a couch or at the counter. Phone vertical, a step further back, both faces in frame.",
+    "Two mics if you have them. Film the 'before rep' take and the 'after rep' take for contrast.",
+    "Add the guest as a Collaborator when posting."
+   ]
+  },
+  "G": {
+   "name": "Carousel Design",
+   "tips": [
+    "Canva template, 1080x1350 (4:5). Cream background, navy serif headline, one gold italic phrase per slide.",
+    "Slide 1 is the hook. Slide 6 asks for the send. Slide 7 is the end card. Max 25 words a slide.",
+    "Batch these on Sunday afternoons: they don't depend on the morning's rep."
+   ]
+  },
+  "H": {
+   "name": "Live",
+   "tips": [
+    "Phone on tripod, light in front of you, quiet room. Go Live on Instagram; a second phone runs Facebook Group Live (or go live in the Group right after).",
+    "20 minutes: 3 min welcome + wins, 7 min the week's theme, 7 min pick and do a rep together live, 3 min invite.",
+    "Save the replay. Cut the best 30s into Monday's story and the Facebook Group."
+   ]
+  }
+ },
+ "routine": [
+  [
+   "7:00 AM",
+   "Morning Drop (Story)",
+   "Screenshot the app's Today's Rep. Add an 'Add Yours' sticker with the rep text and a poll: 'You in?' IN / Tomorrow. Add a question box: 'Who do you choose to be today?' Send the rep to the IG Broadcast Channel (The Rep Crew)."
+  ],
+  [
+   "7:05 AM",
+   "Facebook Group thread",
+   "Post the rep as the day's thread in The Practice Club: Rep Room. 'Today's rep: ___. Who's in? Drop IN.'"
+  ],
+  [
+   "7:15 AM",
+   "Film (15 min)",
+   "Film today's anchor post using the day's setup and shot list. If the app's rep is different from the backup rep below, use the app's rep. The format works for any rep."
+  ],
+  [
+   "Post time",
+   "Anchor post",
+   "Publish the anchor post at the series time. Crosspost Reels to Facebook Reels. Pin the best comment."
+  ],
+  [
+   "First 60 min",
+   "Engagement block (30 min)",
+   "Reply to every comment. Heart and cheer every IN. DM the link to anyone who asks. Comment thoughtfully on 5 creators from the intel list and 5 Rep Crew members."
+  ],
+  [
+   "Midday",
+   "Doing-it Story (1-3 frames)",
+   "Raw behind-the-scenes of you actually doing the rep. No polish. Tag #RepWithMe."
+  ],
+  [
+   "7:00 PM",
+   "Close the Day (Story)",
+   "Reshare every Rep Crew tag and Add Yours entry. Question box: 'Your three: what went well today?' Mirrors the app's Close the Day."
+  ],
+  [
+   "Weekly, Sunday afternoon",
+   "Batch (60-90 min)",
+   "Design Wednesday's carousel, line up Thursday's duet guest, pick Saturday's location and outfit, log last week's numbers in the tracker."
+  ]
+ ],
+ "funRules": [
+  "React honestly when you read the rep. 'Oh, this one's spicy' is better than a lesson.",
+  "Exaggerate the human moment: the most dramatic breath, the longest pause, the biggest no.",
+  "Let the app be a character. 'My app is bossing me around again.'",
+  "Always end with the invitation, never the lecture: 'Do it with me. Comment IN.'",
+  "Same closing line every day so it becomes a chant: 'Life takes reps. See you tomorrow.'"
+ ],
+ "growth": [
+  [
+   "Comment-to-DM automation",
+   "Every anchor post ends with 'Comment IN'. Use a Meta-approved DM automation tool (ManyChat or Meta's built-in auto-replies) to DM the app link to every IN. Confirm the Practice app URL first."
+  ],
+  [
+   "IG Broadcast Channel: The Rep Crew",
+   "One message every morning with the rep and a voice note. The most loyal 1% live here."
+  ],
+  [
+   "Facebook Group: The Practice Club, Rep Room",
+   "Daily rep thread, Sunday Live, Friday wins thread. Moms of teens and practice owners are on Facebook."
+  ],
+  [
+   "Add Yours chain",
+   "The rep travels follower to follower through the Add Yours sticker every morning."
+  ],
+  [
+   "Collabs every Thursday",
+   "Four guests a month, each posting to their audience. Start with clients you're already inviting to Supercharge in Fort Lauderdale."
+  ],
+  [
+   "Rep of the Month",
+   "Each month one Rep Crew member gets a Life Takes Reps cap, announced on the last Friday. Gives people a reason to tag you."
+  ],
+  [
+   "Repurpose the show",
+   "Cut your Dr. Pat Show episodes into 30-45s clips with a hook line on screen. One per week as a bonus post."
+  ],
+  [
+   "Rep counter",
+   "Track IN comments + story tags + app completions. Show the running total every Friday. Road to 10,000 reps."
+  ]
+ ],
+ "creators": [
+  [
+   "@melrobbins",
+   "Mindset / habits",
+   "Direct-to-camera, kitchen or car, one blunt idea, bold captions. Built participation rituals (the 5 Second Rule, the mirror High Five) that people film themselves doing.",
+   "A named ritual people do on camera. Rep With Me is our High Five: one daily action, easy to film, easy to tag."
+  ],
+  [
+   "@drbeckyatgoodinside",
+   "Parenting",
+   "'Say this, not that' scripts for real moments. Talking head, calm, specific. Huge save and send rates from parents.",
+   "Parenting reps as exact words to use with your teen tonight. Saveable scripts."
+  ],
+  [
+   "@nedratawwab",
+   "Boundaries / relationships",
+   "Plain text-on-colour carousels and quote cards. Extremely shareable, built to be DM'd to a friend.",
+   "Wednesday carousels in cream/navy/gold built for 'send this to your rep partner'."
+  ],
+  [
+   "@jamesclear",
+   "Habits",
+   "Minimal, one-line ideas, 1% better framing, consistent visual template.",
+   "Consistent template + small-reps language. Our reps ARE atomic habits for your life."
+  ],
+  [
+   "@the.holistic.psychologist",
+   "Self-healing community",
+   "Gave followers an identity name (#SelfHealers) and a shared vocabulary. Community feels like a club.",
+   "Name the crowd: The Rep Crew. Use club language everywhere."
+  ],
+  [
+   "@jayshetty",
+   "Purpose / relationships",
+   "Story-led reels with a twist ending and a quotable final line. Podcast clips with strong hooks.",
+   "Cut Leah's Dr. Pat Show appearances into 30-45s clips with a hook line on screen."
+  ],
+  [
+   "@matthewhussey",
+   "Relationships",
+   "Sharp hooks naming a painful pattern, then a reframe. Sketch-style two-person demos.",
+   "Thursday duets: act out the 'before rep' and 'after rep' version of a moment with a guest."
+  ],
+  [
+   "@jennakutcher",
+   "Founder lifestyle",
+   "Aspirational but honest life content, golden-hour aesthetic, behind-the-scenes of building.",
+   "Saturday 'Life Looks Good' lifestyle reels: making ordinary life look as good as it feels."
+  ],
+  [
+   "@pelotoninteractive + instructors",
+   "Community fitness",
+   "Instructors shout members out by name, milestone celebrations, leaderboard energy.",
+   "Friday Roll Call: shout out real Rep Crew members by name. Being seen is the reward."
+  ],
+  [
+   "@duolingo",
+   "Learning app",
+   "Playful, slightly unhinged brand humour, streaks, the app as a character.",
+   "Let the app be a character: 'the app made me do it' energy. Fun beats preachy."
+  ],
+  [
+   "@glennondoyle / We Can Do Hard Things",
+   "Movement language",
+   "A slogan that became an identity people wear and repeat.",
+   "'Life takes reps' as the phrase people say back to us. Put it on the cap, end every reel with it."
+  ]
+ ],
+ "platform": [
+  [
+   "Sends beat likes",
+   "Instagram's head has repeatedly named watch time, sends per reach and likes per reach as the core Reels signals. Build every post so someone wants to DM it to a friend: 'Send this to your rep partner.'"
+  ],
+  [
+   "Win the first 1.5 seconds",
+   "Hook as on-screen text AND spoken line in the first beat. A short reel watched twice beats a long one abandoned halfway. Aim for 15-40s on Rep With Me reels."
+  ],
+  [
+   "Carousels for saves and depth",
+   "2026 benchmark reporting shows carousels roughly matching or slightly beating Reels on follower engagement, while Reels still lead on reach for accounts under 50K. Run both: Reels for reach, carousels for the crew."
+  ],
+  [
+   "Series beat one-offs",
+   "Recurring, named series (Rep With Me, Rep in the Wild, Roll Call) train people to come back. Same opening line, same end card, every day."
+  ],
+  [
+   "Trial Reels",
+   "Use Instagram Trial Reels to test two hooks for the same rep with non-followers before sharing to your grid. Keep the winner's hook style."
+  ],
+  [
+   "Reply in the first hour",
+   "Reply to every comment in the first 60 minutes. Answer 'IN' comments with a heart and a one-line cheer. That is the community, not a chore."
+  ],
+  [
+   "Facebook is the 40+ living room",
+   "Crosspost every reel to Facebook Reels, but put the real energy into a Facebook Group (The Practice Club: Rep Room). Moms of teens and practice owners live there and comment in paragraphs."
+  ],
+  [
+   "Add Yours sticker",
+   "Every morning story uses an 'Add Yours' sticker with today's rep, so the rep travels from follower to follower."
+  ]
+ ],
+ "sources": [
+  [
+   "Toptal: How to increase Instagram engagement in 2026",
+   "https://www.toptal.com/creator/post/instagram-engagement"
+  ],
+  [
+   "SocialPilot: Instagram Reels algorithm 2026",
+   "https://www.socialpilot.co/blog/instagram-reels-algorithm"
+  ],
+  [
+   "Dataslayer: Instagram ranking signals Mosseri confirmed",
+   "https://www.dataslayer.ai/blog/instagram-algorithm-2025-complete-guide-for-marketers"
+  ],
+  [
+   "Hootsuite: Instagram algorithm tips 2026",
+   "https://blog.hootsuite.com/instagram-algorithm/"
+  ],
+  [
+   "New Engen: Instagram trends Nov 2026",
+   "https://newengen.com/insights/instagram-trends/"
+  ],
+  [
+   "Later: Instagram Reels trends 2026",
+   "https://later.com/blog/instagram-reels-trends/"
+  ]
+ ],
+ "weeks": [
+  [
+   "Week 1",
+   "COME ALIVE",
+   "Launch Rep With Me. Teach people the ritual: the app drops a rep, we do it together, we say IN."
+  ],
+  [
+   "Week 2",
+   "THE PEOPLE YOU LOVE",
+   "Relationship and parenting reps. The people you love most deserve the version of you that's willing to practice."
+  ],
+  [
+   "Week 3",
+   "GRATITUDE WITH TEETH",
+   "Thanksgiving week (Nov 26). Reps for the family table, the dreaded conversation and the people who never get thanked."
+  ],
+  [
+   "Week 4",
+   "BE YOUR OWN PROOF",
+   "Self-trust, decisions and leadership. Month-one celebration and the road into December."
+  ]
+ ],
+ "days": [
+  {
+   "rep": "Say no to one thing today that you'd usually say yes to out of habit.",
+   "real": true,
+   "area": "Self-leadership",
+   "title": "Welcome to Rep With Me",
+   "hook_text": "I'm doing my life's reps out loud. Come do them with me.",
+   "hook_spoken": "Every morning my app gives me one rep for my life. Starting today, I'm doing it with you.",
+   "beats": [
+    "Open on the real app notification (screen record). 'Here she is. Today's rep.'",
+    "Read the rep out loud. React honestly: 'Ooh. Out of HABIT. That's personal.'",
+    "Say the real thing you're saying no to today, on camera.",
+    "'I don't want to do my life alone. I want company. People who are excited about their one life.'",
+    "Invite: 'Your turn. Comment IN and tell me what you're saying no to.' Close: 'Life takes reps. See you tomorrow.'"
+   ],
+   "shots": [
+    "App notification screen record (3s)",
+    "Kitchen counter talking head",
+    "Close-up as you say your no",
+    "End card: REP WITH ME / Life takes reps."
+   ],
+   "caption": "Starting today I'm not doing my life alone.\n\nEvery morning the Practice app gives me one rep. One small thing that makes this one life a little better. And every day I'm going to do it with you, out loud, probably a little ridiculous.\n\nToday's rep: say no to one thing you'd usually say yes to out of habit.\n\nMine is ___. What's yours? Comment IN and I'll send you the app.\n\nLife takes reps. Let's make life sexy again. #RepWithMe #LifeTakesReps #ThePracticeClub",
+   "extras": "BONUS: also post Master Script 01 'You Get One Life' tonight and pin it to your grid. Announce the Facebook Group in Stories.",
+   "date": "2026-11-09",
+   "weekday": "Mon",
+   "week": 0,
+   "series": "REP DROP",
+   "format": "Reel, 20-35s",
+   "time": "11:30 AM",
+   "setups": [
+    "A",
+    "D"
+   ]
+  },
+  {
+   "rep": "Before you answer one message today, take one full breath first.",
+   "real": true,
+   "area": "Emotions / reactions",
+   "title": "The Most Dramatic Breath of My Life",
+   "hook_text": "Watch me not reply to this text for one full breath.",
+   "hook_spoken": "Someone just texted me something annoying and today's rep says I have to breathe first.",
+   "beats": [
+    "Phone buzzes on the café table. You glare at it.",
+    "Text on screen: 'Today's rep: one full breath before you answer.'",
+    "The most over-the-top, slow-motion, eyes-closed breath of your life. Hold it. Café sounds.",
+    "Type the calmer reply. 'Huh. That's a different text than I was going to send.'",
+    "'One breath. That's the whole rep. Comment IN if you're doing it with me.'"
+   ],
+   "shots": [
+    "Wide: you at a café with coffee",
+    "Close: phone buzzing",
+    "Medium slow-mo breath (60fps)",
+    "Over-shoulder typing the reply",
+    "Selfie close for the invite"
+   ],
+   "caption": "The text I almost sent vs the text I sent after one breath. 😅\n\nToday's rep: before you answer one message today, take one full breath first.\n\nThat's it. One breath. It's the smallest gap between reacting and choosing.\n\nComment IN if you're doing it with me. Tell me later how it went. #RepWithMe #LifeTakesReps",
+   "extras": "Trial Reel test: Hook A 'Watch me not reply to this text' vs Hook B 'The text I almost sent'.",
+   "date": "2026-11-10",
+   "weekday": "Tue",
+   "week": 0,
+   "series": "REP IN THE WILD",
+   "format": "Reel, 15-30s",
+   "time": "11:30 AM",
+   "setups": [
+    "C"
+   ]
+  },
+  {
+   "rep": "Tell someone exactly what you appreciate about them, in one sentence.",
+   "real": true,
+   "area": "Relationships",
+   "title": "The One-Sentence Rep",
+   "hook_text": "The one-sentence rep that changes a relationship.",
+   "hook_spoken": "",
+   "beats": [
+    "Slide 1: The one-sentence rep that changes a relationship.",
+    "Slide 2: Vague: 'You're the best.' Exact: 'The way you remembered my mom's surgery made me feel held.'",
+    "Slide 3: Why exact works: specific is how people know they were actually seen.",
+    "Slide 4: Fill in the blank: 'I appreciate the way you ___ because ___.'",
+    "Slide 5: Leah's real one (screenshot of the text you sent, name blurred).",
+    "Slide 6: Send this to the person you're about to appreciate. 😉",
+    "Slide 7: Today's rep. Life takes reps. Comment IN."
+   ],
+   "shots": [
+    "Design in Canva template G",
+    "Screenshot your actual appreciation text for slide 5"
+   ],
+   "caption": "Most of us appreciate people in our heads and never say it out loud.\n\nToday's rep: tell someone exactly what you appreciate about them, in one sentence. Exact, not nice.\n\nSave this for the template. Send it to the person you're about to text. Comment IN when you've done it. #RepWithMe #ThePracticeClub",
+   "extras": "Story: record a 15s voice memo of you sending your appreciation sentence.",
+   "date": "2026-11-11",
+   "weekday": "Wed",
+   "week": 0,
+   "series": "WHY THIS REP WORKS",
+   "format": "Carousel, 7 slides (4:5)",
+   "time": "8:00 AM",
+   "setups": [
+    "G"
+   ]
+  },
+  {
+   "rep": "Ask someone you care about how they are doing, and give their answer a little room.",
+   "real": true,
+   "area": "Relationships",
+   "title": "Good. Great! (Take 2)",
+   "hook_text": "We ask 'how are you' 20 times a day. Here's what happens when you actually wait.",
+   "hook_spoken": "Take one. The normal way.",
+   "beats": [
+    "Take 1 (fast, comedic): 'How are you?' 'Good.' 'Great!' Both walk off. Text: 'Every conversation ever.'",
+    "Take 2: Leah asks again, then just waits. Holds eye contact. Three full seconds of silence.",
+    "Guest actually answers something real (let it be real, keep it light).",
+    "Text on screen: 'The rep is the pause.'",
+    "Both to camera: 'Do it with us. Comment IN. Then go ask someone and wait.'"
+   ],
+   "shots": [
+    "Two-shot at counter, Take 1",
+    "Same frame, Take 2",
+    "Close on the pause",
+    "Both faces for the invite"
+   ],
+   "caption": "The rep isn't the question. It's the pause after it.\n\nToday's rep: ask someone you care about how they're doing, and give their answer a little room.\n\nWith my favourite rep partner @___. Comment IN and go ask someone. #RepWithMe #LifeTakesReps",
+   "extras": "Guest idea: Abra, a client, or a teammate. Add them as Collaborator.",
+   "date": "2026-11-12",
+   "weekday": "Thu",
+   "week": 0,
+   "series": "REP DUET",
+   "format": "Collab Reel, 20-40s",
+   "time": "11:30 AM",
+   "setups": [
+    "F"
+   ]
+  },
+  {
+   "rep": "At the end of today, pick one ordinary moment you would gladly experience again.",
+   "real": true,
+   "area": "Presence",
+   "title": "Roll Call: Week One",
+   "hook_text": "You did your reps this week. Here are your names.",
+   "hook_spoken": "Week one of Rep With Me and you showed up. Let's look.",
+   "beats": [
+    "Fast montage of real IN comments and story tags from the week (screenshots, names visible only with permission).",
+    "Shout out 5 people by first name: 'Jen said no to a committee. Linel took the breath.'",
+    "Your own ordinary moment from this week, 3s clip.",
+    "Today's rep: pick one ordinary moment you'd gladly live again.",
+    "'Comment yours below. Week two starts Monday. Life takes reps.'"
+   ],
+   "shots": [
+    "Screen-record comments scrolling",
+    "Kitchen talking head",
+    "B-roll of your ordinary moment",
+    "Rep counter graphic: 'Reps this week: ___'"
+   ],
+   "caption": "Week one. Look at you. 👏\n\nShoutout to everyone who said IN, took the breath, sent the sentence and waited for the real answer.\n\nToday's rep: at the end of today, pick one ordinary moment you'd gladly experience again. Drop yours below and I'll read them all.\n\nRep counter so far: ___. Road to 10,000. #RepWithMe #RepCrew",
+   "extras": "Evening Story: 'Before you close the week' reflection from the app.",
+   "date": "2026-11-13",
+   "weekday": "Fri",
+   "week": 0,
+   "series": "ROLL CALL",
+   "format": "Reel montage, 20-40s",
+   "time": "11:30 AM",
+   "setups": [
+    "A",
+    "D"
+   ]
+  },
+  {
+   "rep": "Give yourself five minutes with something you genuinely enjoy. No need to make it productive.",
+   "real": true,
+   "area": "Joy / aliveness",
+   "title": "Unproductive. Unbothered.",
+   "hook_text": "Five minutes of something I love. Zero productivity. Fight me.",
+   "hook_spoken": "",
+   "beats": [
+    "No talking. Trending audio.",
+    "Clips of your five minutes: dancing in the kitchen in the Club Hoodie, a pastry, the dog, a walk, a song in the car.",
+    "On-screen line: 'Unproductive. Unbothered. Unbelievably alive.'",
+    "End card: Today's rep. Comment IN."
+   ],
+   "shots": [
+    "6-10 golden-hour B-roll clips, 3-5s",
+    "One slow-mo (60fps) laugh or spin",
+    "Merch visible in at least two clips"
+   ],
+   "caption": "Today's rep: give yourself five minutes with something you genuinely enjoy. No need to make it productive.\n\nThis is what making life sexy means to me. Being fully here for the good stuff.\n\nWhat are your five minutes? Comment IN + your thing. #RepWithMe #LifeTakesReps #ThePracticeClub",
+   "extras": "",
+   "date": "2026-11-14",
+   "weekday": "Sat",
+   "week": 0,
+   "series": "LIFE LOOKS GOOD",
+   "format": "Lifestyle Reel, 10-20s, trending audio",
+   "time": "10:00 AM",
+   "setups": [
+    "E"
+   ]
+  },
+  {
+   "rep": "Pick the one thing that would make this week feel like yours, and put it on your calendar.",
+   "real": false,
+   "area": "Purpose / planning",
+   "title": "Set the Week Live #1",
+   "hook_text": "Sunday Live: set the week with me.",
+   "hook_spoken": "",
+   "beats": [
+    "0-3 min: welcome, read week-one wins by name.",
+    "3-10 min: 'Come alive' recap. Why doing reps together matters (Brand reason 10: you are worth the effort).",
+    "10-17 min: open the app's Set the Week together. Everyone picks one thing and puts it on their calendar live.",
+    "17-20 min: preview week two: The People You Love. Invite to the Facebook Group."
+   ],
+   "shots": [
+    "Live setup H",
+    "Cut a 30s clip of the calendar moment for Monday's story"
+   ],
+   "caption": "(Live announcement story at 10 AM) Tonight at 7: Set the Week Live. Bring your calendar. We're putting one thing that's yours on it.",
+   "extras": "",
+   "date": "2026-11-15",
+   "weekday": "Sun",
+   "week": 0,
+   "series": "SET THE WEEK",
+   "format": "IG Live + Facebook Group Live, 20 min; then a 30s clip",
+   "time": "7:00 PM Live",
+   "setups": [
+    "H"
+   ]
+  },
+  {
+   "rep": "For the first ten minutes someone you love walks in the door, put your phone in another room.",
+   "real": false,
+   "area": "Relationships / parenting",
+   "title": "My Phone Is in the Laundry Basket",
+   "hook_text": "My phone is going in the laundry basket. This is not a drill.",
+   "hook_spoken": "Today's rep is going to hurt a little.",
+   "beats": [
+    "App POV: read today's rep. 'Ten minutes?! No phone?!'",
+    "Walk the phone to the laundry basket like it's a funeral. Tiny salute.",
+    "Text: 'Ten minutes later...' Cut to you on the floor/at the counter actually listening.",
+    "'The people you love deserve more than your leftovers.'",
+    "'Who's in? Comment IN. Report back tonight.'"
+   ],
+   "shots": [
+    "App screen record",
+    "Hallway walk to laundry basket (comedic)",
+    "Warm two-shot (family member optional, back of head is fine)",
+    "Talking head close"
+   ],
+   "caption": "The people you love deserve more than your leftovers. Including your scrolling leftovers. 📵\n\nToday's rep: the first ten minutes someone you love walks in the door, your phone lives in another room.\n\nComment IN. Then tell me tonight what you noticed. #RepWithMe #LifeTakesReps",
+   "extras": "Week 2 theme kickoff story with the 30s Live clip.",
+   "date": "2026-11-16",
+   "weekday": "Mon",
+   "week": 1,
+   "series": "REP DROP",
+   "format": "Reel, 20-35s",
+   "time": "11:30 AM",
+   "setups": [
+    "A",
+    "D"
+   ]
+  },
+  {
+   "rep": "Let someone finish their whole sentence before you start yours. All day.",
+   "real": false,
+   "area": "Communication",
+   "title": "Interruption Counter",
+   "hook_text": "I tried not interrupting anyone for a whole day. Counter in the corner.",
+   "hook_spoken": "",
+   "beats": [
+    "On-screen counter 'Interruptions avoided: 0' that ticks up through the day.",
+    "Clips: meeting, phone call, kid/partner story. You visibly biting your tongue (comedic).",
+    "Final: 'Interruptions avoided: 14. Things I learned: way more than if I'd talked.'",
+    "'Do it with me. Comment IN.'"
+   ],
+   "shots": [
+    "Handheld clips across the day (C)",
+    "Close-up lip-press reactions",
+    "Car confessional for the wrap (B)"
+   ],
+   "caption": "Turns out people say the best part at the end of their sentence. Who knew.\n\nToday's rep: let someone finish their whole sentence before you start yours. All day.\n\nComment IN and keep count with me. #RepWithMe #ThePracticeClub",
+   "extras": "",
+   "date": "2026-11-17",
+   "weekday": "Tue",
+   "week": 1,
+   "series": "REP IN THE WILD",
+   "format": "Reel, 15-30s",
+   "time": "11:30 AM",
+   "setups": [
+    "C"
+   ]
+  },
+  {
+   "rep": "Before you correct your kid (or your partner), ask one curious question first.",
+   "real": false,
+   "area": "Parenting",
+   "title": "Reps Over Regret: Say This, Not That",
+   "hook_text": "Before you correct your teenager, try this one question.",
+   "hook_spoken": "",
+   "beats": [
+    "Slide 1: Before you correct your teenager, try one question.",
+    "Slide 2: Instead of 'Why would you do that?' try 'What were you hoping would happen?'",
+    "Slide 3: Instead of 'You never listen' try 'What's making this hard right now?'",
+    "Slide 4: Why: fear sounds like anger when we skip curiosity. (Brand reason 3)",
+    "Slide 5: You can't control every choice they make. You can practice how you respond.",
+    "Slide 6: Send this to the mom friend who needs it today.",
+    "Slide 7: Today's rep. Reps over regret. Comment IN."
+   ],
+   "shots": [
+    "Carousel template G"
+   ],
+   "caption": "Reps over regret.\n\nToday's rep: before you correct your kid (or your partner), ask one curious question first.\n\nSave the scripts. Send them to your mom group chat. Comment IN if you're practicing with me. #RepWithMe #RepsOverRegret",
+   "extras": "BONUS: post Master Script 04 'Reps Over Regret' as an evening Reel.",
+   "date": "2026-11-18",
+   "weekday": "Wed",
+   "week": 1,
+   "series": "WHY THIS REP WORKS",
+   "format": "Carousel, 7 slides (4:5)",
+   "time": "8:00 AM",
+   "setups": [
+    "G"
+   ]
+  },
+  {
+   "rep": "Tell your person one thing you're proud of them for that they didn't ask you to notice.",
+   "real": false,
+   "area": "Relationships",
+   "title": "Duet: I Noticed",
+   "hook_text": "I told my favourite person something they didn't know I noticed.",
+   "hook_spoken": "Today's rep. You go first. No, you go first.",
+   "beats": [
+    "Two-shot. Read the rep together off the app.",
+    "Leah tells the guest one specific thing she's proud of. Hold on the guest's reaction.",
+    "Guest returns the rep. Laughter allowed.",
+    "Text on screen: 'Noticed is the new I love you.'",
+    "Both: 'Do it with us. Comment IN.'"
+   ],
+   "shots": [
+    "Two-shot setup F",
+    "Close-ups on each reaction",
+    "Both faces invite"
+   ],
+   "caption": "Noticed is the new I love you. 🥹\n\nToday's rep: tell your person one thing you're proud of them for that they didn't ask you to notice.\n\nWith @___. Your turn. Comment IN. #RepWithMe #LifeTakesReps",
+   "extras": "Guest: a partner, best friend or teammate. Collaborator post.",
+   "date": "2026-11-19",
+   "weekday": "Thu",
+   "week": 1,
+   "series": "REP DUET",
+   "format": "Collab Reel, 20-40s",
+   "time": "11:30 AM",
+   "setups": [
+    "F"
+   ]
+  },
+  {
+   "rep": "Text someone you've drifted from: 'Thought of you today.' Nothing else.",
+   "real": false,
+   "area": "Connection",
+   "title": "Roll Call: The Drift Text",
+   "hook_text": "Four words. Look what happened when the Rep Crew sent them.",
+   "hook_spoken": "",
+   "beats": [
+    "Leah sends the text on camera (name blurred).",
+    "Montage of Rep Crew screenshots of replies they got (with permission).",
+    "Shout out 5 members by first name. Week-two rep count on screen.",
+    "'Thought of you today. Send it. Comment IN.'"
+   ],
+   "shots": [
+    "App POV + texting close-up",
+    "Screen-record shared replies",
+    "Talking head close"
+   ],
+   "caption": "Four words. 'Thought of you today.' That's the whole rep.\n\nWeek two shout-outs: ___, ___, ___. Rep count: ___.\n\nSend it to someone you've drifted from, then comment IN. #RepWithMe #RepCrew",
+   "extras": "Facebook Group: Friday wins thread.",
+   "date": "2026-11-20",
+   "weekday": "Fri",
+   "week": 1,
+   "series": "ROLL CALL",
+   "format": "Reel montage, 20-40s",
+   "time": "11:30 AM",
+   "setups": [
+    "A",
+    "D"
+   ]
+  },
+  {
+   "rep": "Plan one date that doesn't involve a screen. With your partner, your kid, or yourself.",
+   "real": false,
+   "area": "Joy / relationships",
+   "title": "Date Night, No Screens",
+   "hook_text": "POV: you made life sexy again.",
+   "hook_spoken": "",
+   "beats": [
+    "Trending audio, no talking.",
+    "Getting ready (lipstick, Club Hoodie swapped for something you love), candles, a board game, a walk, a dinner.",
+    "On-screen: 'No screens. Just us.' or 'Date with myself.'",
+    "End card: today's rep + Comment IN."
+   ],
+   "shots": [
+    "Golden hour or candlelight B-roll (E)",
+    "Slow-mo pour or laugh",
+    "Hands, table, details"
+   ],
+   "caption": "POV: you made life sexy again. 🕯️\n\nToday's rep: plan one date that doesn't involve a screen. With your partner, your kid, or yourself.\n\nComment IN + who your date is. #RepWithMe #LifeTakesReps",
+   "extras": "",
+   "date": "2026-11-21",
+   "weekday": "Sat",
+   "week": 1,
+   "series": "LIFE LOOKS GOOD",
+   "format": "Lifestyle Reel, 10-20s, trending audio",
+   "time": "10:00 AM",
+   "setups": [
+    "E"
+   ]
+  },
+  {
+   "rep": "Decide who you want to be at the Thanksgiving table before you get there.",
+   "real": false,
+   "area": "Family / holidays",
+   "title": "Set the Week Live #2: Thanksgiving Game Plan",
+   "hook_text": "Sunday Live: your Thanksgiving game plan.",
+   "hook_spoken": "",
+   "beats": [
+    "0-3: wins from the week by name.",
+    "3-10: the family table is the hardest gym in America. Talk about the response we want vs the reaction we usually have.",
+    "10-17: live rep: everyone writes one sentence: 'At the table I want to be someone who ___.'",
+    "17-20: preview Thanksgiving week reps. Invite to Group."
+   ],
+   "shots": [
+    "Live setup H",
+    "Clip the 'one sentence' moment"
+   ],
+   "caption": "Tonight 7 PM: Thanksgiving Game Plan Live. Bring your nerves. We'll decide who we want to be at the table before we get there.",
+   "extras": "BONUS: post Master Script 05 'The People You Love Most' as an afternoon Reel.",
+   "date": "2026-11-22",
+   "weekday": "Sun",
+   "week": 1,
+   "series": "SET THE WEEK",
+   "format": "IG Live + Facebook Group Live, 20 min; then a 30s clip",
+   "time": "7:00 PM Live",
+   "setups": [
+    "H"
+   ]
+  },
+  {
+   "rep": "Name the one family conversation you're dreading, and decide your first sentence now.",
+   "real": false,
+   "area": "Hard conversations",
+   "title": "Thanksgiving Is in 3 Days. Let's Rehearse.",
+   "hook_text": "Thanksgiving is in 3 days. Let's rehearse the conversation you're dreading.",
+   "hook_spoken": "You know the one. Let's write your first sentence right now.",
+   "beats": [
+    "App POV: read the rep.",
+    "'Here's mine.' Say your real dreaded topic in a vague, relatable way.",
+    "Open the Practice coach on screen and type it in. Show the real response (screen record, unedited).",
+    "Say your first sentence out loud.",
+    "'Write yours in the comments or just comment IN. I'll be practicing with you.'"
+   ],
+   "shots": [
+    "App POV screen record of a real coaching exchange",
+    "Kitchen talking head",
+    "Close-up first sentence"
+   ],
+   "caption": "The conversation lasts ten minutes. The dread lasts ten days.\n\nToday's rep: name the family conversation you're dreading and decide your first sentence now.\n\nComment IN (or your first sentence, I'll cheer for you). #RepWithMe #LifeTakesReps",
+   "extras": "BONUS: Master Script 03 'The Ten-Second Conversation' as a second post.",
+   "date": "2026-11-23",
+   "weekday": "Mon",
+   "week": 2,
+   "series": "REP DROP",
+   "format": "Reel, 20-35s",
+   "time": "11:30 AM",
+   "setups": [
+    "A",
+    "D"
+   ]
+  },
+  {
+   "rep": "Thank someone who never gets thanked. By name, out loud.",
+   "real": false,
+   "area": "Gratitude",
+   "title": "Thanking the Invisible People",
+   "hook_text": "I thanked the people nobody thanks. By name.",
+   "hook_spoken": "",
+   "beats": [
+    "Clips: barista, mail carrier, a dental practice front desk or hygienist, the school crossing guard.",
+    "Leah says their name and one specific thank you. Capture reactions (with permission) or film from behind.",
+    "On-screen: 'Gratitude with teeth: say it out loud.'",
+    "'Who's yours today? Comment IN.'"
+   ],
+   "shots": [
+    "In the Wild (C)",
+    "Reaction close-ups only with permission",
+    "Car wrap-up (B)"
+   ],
+   "caption": "Gratitude with teeth means you say it out loud, with their name.\n\nToday's rep: thank someone who never gets thanked.\n\nComment IN and tell me who. #RepWithMe #ThePracticeClub",
+   "extras": "Great collab potential with a client practice: tag the practice.",
+   "date": "2026-11-24",
+   "weekday": "Tue",
+   "week": 2,
+   "series": "REP IN THE WILD",
+   "format": "Reel, 15-30s",
+   "time": "11:30 AM",
+   "setups": [
+    "C"
+   ]
+  },
+  {
+   "rep": "Pick one rep from the Holiday Rep Card and bring it to the table.",
+   "real": false,
+   "area": "Family / holidays",
+   "title": "The Holiday Rep Card",
+   "hook_text": "5 reps to bring to the Thanksgiving table.",
+   "hook_spoken": "",
+   "beats": [
+    "Slide 1: 5 reps to bring to the Thanksgiving table.",
+    "Slide 2: Pause one breath before you react to Uncle ___.",
+    "Slide 3: Ask the quietest person at the table a real question.",
+    "Slide 4: Step outside for one breath when it gets loud.",
+    "Slide 5: Give one exact thank you, out loud.",
+    "Slide 6: Leave the old argument in the car. Send this to your sibling. 😂",
+    "Slide 7: Pick one. Comment IN + your number."
+   ],
+   "shots": [
+    "Carousel template G, holiday accent (warm gold)"
+   ],
+   "caption": "Your Holiday Rep Card. Screenshot it. Send it to your sibling. Pick one.\n\nComment IN + the number you're bringing to the table. #RepWithMe #LifeTakesReps",
+   "extras": "Make slide 6 the most sendable line of the month. This is a DM-send post.",
+   "date": "2026-11-25",
+   "weekday": "Wed",
+   "week": 2,
+   "series": "WHY THIS REP WORKS",
+   "format": "Carousel, 7 slides (4:5)",
+   "time": "8:00 AM",
+   "setups": [
+    "G"
+   ]
+  },
+  {
+   "rep": "Go around the table: one ordinary moment from this year you'd gladly live again.",
+   "real": false,
+   "area": "Gratitude / presence",
+   "title": "Thanksgiving Rep",
+   "hook_text": "We did the rep at Thanksgiving dinner.",
+   "hook_spoken": "",
+   "beats": [
+    "Candid clips of people around the table answering (only those who say yes to being filmed).",
+    "Soft audio, no heavy edit. One line on screen: 'One ordinary moment you'd live again.'",
+    "Close: 'Happy Thanksgiving, Rep Crew. Grateful you're here.'"
+   ],
+   "shots": [
+    "Handheld, candid, warm light",
+    "Hands and food details if people are camera-shy"
+   ],
+   "caption": "Happy Thanksgiving, Rep Crew. 🧡\n\nToday's rep: go around the table and share one ordinary moment from this year you'd gladly live again.\n\nIf someone's missing from your table this year, hold them in your moment too. Comment IN. #RepWithMe",
+   "extras": "Post in the evening. Keep it gentle. Light Stories only.",
+   "date": "2026-11-26",
+   "weekday": "Thu",
+   "week": 2,
+   "series": "REP DUET",
+   "format": "Collab Reel, 20-40s",
+   "time": "11:30 AM",
+   "setups": [
+    "F"
+   ]
+  },
+  {
+   "rep": "Cancel one thing that's on auto-renew in your life: a habit, a yes, a worry.",
+   "real": false,
+   "area": "Self-leadership",
+   "title": "Black Friday: The Best Deal Is Canceling",
+   "hook_text": "Everyone's buying today. I'm canceling.",
+   "hook_spoken": "Black Friday tip: the most expensive subscription you have isn't on your credit card.",
+   "beats": [
+    "'Proving. Approval. Control. Pressure. Certainty. Old identity.' (the Subscription Quiz patterns) appear on screen.",
+    "'Which one are you still paying for?'",
+    "Leah cancels hers out loud.",
+    "Roll call: shout out week-three reppers by name, show rep count.",
+    "'Comment IN. Take the quiz (link in bio). Rep of the Month gets a Life Takes Reps cap next Friday.'"
+   ],
+   "shots": [
+    "Kitchen talking head",
+    "Text graphics for the 6 patterns",
+    "Merch cap close-up"
+   ],
+   "caption": "Black Friday, but make it growth.\n\nToday's rep: cancel one thing on auto-renew in your life. A habit, a yes, a worry.\n\nWhat's costing you more than you think? Take the Subscription Quiz (link in bio) and comment IN. #RepWithMe #LifeTakesReps",
+   "extras": "Only link the quiz if the live URL works without login. Otherwise drop that line.",
+   "date": "2026-11-27",
+   "weekday": "Fri",
+   "week": 2,
+   "series": "ROLL CALL",
+   "format": "Reel montage, 20-40s",
+   "time": "11:30 AM",
+   "setups": [
+    "A",
+    "D"
+   ]
+  },
+  {
+   "rep": "Do one thing today at half speed. Walk, eat, shower. Savor it on purpose.",
+   "real": false,
+   "area": "Presence / joy",
+   "title": "Half Speed",
+   "hook_text": "Everything at half speed today. On purpose.",
+   "hook_spoken": "",
+   "beats": [
+    "Trending slow audio. All slow motion.",
+    "Leftover pie bite, a walk in the cold, coffee steam, a laugh.",
+    "On-screen: 'Life looks good at half speed.'",
+    "End card: Comment IN."
+   ],
+   "shots": [
+    "60fps slow-mo B-roll (E)",
+    "Merch in frame"
+   ],
+   "caption": "Life looks good at half speed.\n\nToday's rep: do one thing today at half speed and savor it on purpose.\n\nComment IN + what you're slowing down. #RepWithMe #LifeTakesReps",
+   "extras": "",
+   "date": "2026-11-28",
+   "weekday": "Sat",
+   "week": 2,
+   "series": "LIFE LOOKS GOOD",
+   "format": "Lifestyle Reel, 10-20s, trending audio",
+   "time": "10:00 AM",
+   "setups": [
+    "E"
+   ]
+  },
+  {
+   "rep": "Write the three words you want December to feel like.",
+   "real": false,
+   "area": "Purpose / planning",
+   "title": "Set the Week Live #3: December on Purpose",
+   "hook_text": "Sunday Live: December on purpose.",
+   "hook_spoken": "",
+   "beats": [
+    "0-3: Thanksgiving wins and stories.",
+    "3-10: December usually happens TO us. Let's decide how it feels.",
+    "10-17: live rep: three words for December, typed in comments.",
+    "17-20: preview week four: Be Your Own Proof."
+   ],
+   "shots": [
+    "Live setup H",
+    "Clip the three-words moment"
+   ],
+   "caption": "Tonight 7 PM: December on Purpose Live. Bring three words.",
+   "extras": "BONUS: post Master Script 10 'Your Life Is Worth the Effort'.",
+   "date": "2026-11-29",
+   "weekday": "Sun",
+   "week": 2,
+   "series": "SET THE WEEK",
+   "format": "IG Live + Facebook Group Live, 20 min; then a 30s clip",
+   "time": "7:00 PM Live",
+   "setups": [
+    "H"
+   ]
+  },
+  {
+   "rep": "Do the thing you told yourself you'd do 'tomorrow'. Just the first five minutes.",
+   "real": false,
+   "area": "Self-trust",
+   "title": "Be Your Own Proof: Live Attempt",
+   "hook_text": "I've been avoiding this for three weeks. Doing it on camera right now.",
+   "hook_spoken": "",
+   "beats": [
+    "App POV: read today's rep. Groan.",
+    "Name the thing you've been putting off (real).",
+    "Set a 5-minute timer on screen. Time-lapse of you doing it.",
+    "Timer ends: 'That's evidence. I can trust myself a little more today.'",
+    "'Your five minutes. Comment IN.'"
+   ],
+   "shots": [
+    "App POV",
+    "Timer overlay + time-lapse",
+    "Talking head close for the payoff"
+   ],
+   "caption": "Confidence doesn't come first. Evidence does.\n\nToday's rep: do the thing you said you'd do 'tomorrow'. Just the first five minutes.\n\nBe your own proof. Comment IN. #RepWithMe #BeYourOwnProof",
+   "extras": "BONUS: Master Script 07 'Be Your Own Proof'.",
+   "date": "2026-11-30",
+   "weekday": "Mon",
+   "week": 3,
+   "series": "REP DROP",
+   "format": "Reel, 20-35s",
+   "time": "11:30 AM",
+   "setups": [
+    "A",
+    "D"
+   ]
+  },
+  {
+   "rep": "Make one decision today you've been waiting to 'feel ready' for.",
+   "real": false,
+   "area": "Decisions",
+   "title": "Decision in the Wild",
+   "hook_text": "I made the decision I've been 'not ready' for. Here's how.",
+   "hook_spoken": "",
+   "beats": [
+    "At the office or in the car. 'I've been waiting to feel ready. Today's rep says decide anyway.'",
+    "Three quick steps on screen: What do I know. What can I influence. What's my next move.",
+    "Make the decision (send the email, book the thing).",
+    "'Feeling ready is optional. Comment IN.'"
+   ],
+   "shots": [
+    "In the Wild (C) or Car (B)",
+    "Over-shoulder hitting send"
+   ],
+   "caption": "You don't have to feel ready to begin. You can practice beginning.\n\nToday's rep: make one decision you've been waiting to feel ready for.\n\nComment IN. #RepWithMe #LifeTakesReps",
+   "extras": "",
+   "date": "2026-12-01",
+   "weekday": "Tue",
+   "week": 3,
+   "series": "REP IN THE WILD",
+   "format": "Reel, 15-30s",
+   "time": "11:30 AM",
+   "setups": [
+    "C"
+   ]
+  },
+  {
+   "rep": "Write down one thing you complain about every week. Then write one move that's yours to make.",
+   "real": false,
+   "area": "Leadership / work",
+   "title": "What Are You Tolerating?",
+   "hook_text": "What are you tolerating right now?",
+   "hook_spoken": "",
+   "beats": [
+    "Slide 1: What are you tolerating right now?",
+    "Slide 2: The employee who isn't following through. The schedule. The conversation you keep avoiding.",
+    "Slide 3: We spend hours complaining about things we actually have some influence over.",
+    "Slide 4: Two columns: 'What I complain about' / 'The move that's mine'.",
+    "Slide 5: Have the conversation. Make the request. Set the expectation. Make the decision.",
+    "Slide 6: Send this to the founder friend carrying everything.",
+    "Slide 7: Leadership starts with how you lead yourself. Comment IN."
+   ],
+   "shots": [
+    "Carousel template G"
+   ],
+   "caption": "Leadership starts with how you lead yourself.\n\nToday's rep: write down one thing you complain about every week. Then write one move that's yours to make.\n\nComment IN. Send to the founder friend who needs it. #RepWithMe #ThePracticeClub",
+   "extras": "BONUS: Master Script 06 'What Are You Tolerating?'",
+   "date": "2026-12-02",
+   "weekday": "Wed",
+   "week": 3,
+   "series": "WHY THIS REP WORKS",
+   "format": "Carousel, 7 slides (4:5)",
+   "time": "8:00 AM",
+   "setups": [
+    "G"
+   ]
+  },
+  {
+   "rep": "Hand off one decision you'd usually make yourself, and let your person own it.",
+   "real": false,
+   "area": "Leadership / teams",
+   "title": "Duet: The Hand-Off",
+   "hook_text": "A practice owner and I did today's rep with her team.",
+   "hook_spoken": "",
+   "beats": [
+    "Two-shot with a founder or practice-owner client.",
+    "Take 1: team member asks a question, owner answers instantly (comedic, the usual).",
+    "Take 2: owner asks 'What do you think we should do?' and waits.",
+    "Owner to camera: how it felt to let go.",
+    "'What if everyone on your team had a coach? Comment IN.'"
+   ],
+   "shots": [
+    "Two-shot (F) in the practice or office",
+    "Both takes in the same frame",
+    "Owner close-up"
+   ],
+   "caption": "Your business doesn't need more people who need you. It needs people who can think, decide and lead.\n\nToday's rep: hand off one decision you'd usually make yourself.\n\nWith @___. Comment IN. #RepWithMe #InnerBoard",
+   "extras": "Good bridge to InnerBoard IOS. Collaborator post with the practice.",
+   "date": "2026-12-03",
+   "weekday": "Thu",
+   "week": 3,
+   "series": "REP DUET",
+   "format": "Collab Reel, 20-40s",
+   "time": "11:30 AM",
+   "setups": [
+    "F"
+   ]
+  },
+  {
+   "rep": "Keep one promise to yourself today, small enough that you can't miss.",
+   "real": false,
+   "area": "Self-trust",
+   "title": "Roll Call: Month One + Rep of the Month",
+   "hook_text": "One month. ___ reps. Look at us.",
+   "hook_spoken": "",
+   "beats": [
+    "Reveal the month-one rep counter.",
+    "Montage of the best Rep Crew moments of the month.",
+    "Announce Rep of the Month: a member gets a Life Takes Reps cap.",
+    "Today's rep: keep one tiny promise to yourself.",
+    "'Month two starts Monday. Bring a friend. Comment IN.'"
+   ],
+   "shots": [
+    "Counter graphic",
+    "Screen-record comments",
+    "Cap unboxing or handoff",
+    "Talking head close"
+   ],
+   "caption": "One month of doing life's reps together. ___ reps. I am so proud of us. 🧢\n\nRep of the Month: @___ (your cap is on the way).\n\nToday's rep: keep one promise to yourself, small enough that you can't miss. Comment IN and tag the friend you're bringing into month two. #RepWithMe #RepCrew",
+   "extras": "",
+   "date": "2026-12-04",
+   "weekday": "Fri",
+   "week": 3,
+   "series": "ROLL CALL",
+   "format": "Reel montage, 20-40s",
+   "time": "11:30 AM",
+   "setups": [
+    "A",
+    "D"
+   ]
+  },
+  {
+   "rep": "Wear the thing you've been saving for a special occasion. Today is the occasion.",
+   "real": false,
+   "area": "Joy / aliveness",
+   "title": "Today Is the Occasion",
+   "hook_text": "I stopped saving it for a special occasion.",
+   "hook_spoken": "",
+   "beats": [
+    "Trending audio. Pull out the dress, the shoes, the good perfume, the good dishes.",
+    "Wear it to the grocery store. Walk like you own the place.",
+    "On-screen: 'Today is the occasion.'",
+    "End card: Comment IN + what you're finally wearing."
+   ],
+   "shots": [
+    "Golden hour (E)",
+    "Closet reveal",
+    "Confident walk slow-mo"
+   ],
+   "caption": "Today is the occasion. ✨\n\nToday's rep: wear the thing you've been saving for a special occasion.\n\nLet's make life sexy again. Comment IN + what you're finally wearing. #RepWithMe #LifeTakesReps",
+   "extras": "Likely the most shareable lifestyle post of the month. Run it as a Trial Reel first.",
+   "date": "2026-12-05",
+   "weekday": "Sat",
+   "week": 3,
+   "series": "LIFE LOOKS GOOD",
+   "format": "Lifestyle Reel, 10-20s, trending audio",
+   "time": "10:00 AM",
+   "setups": [
+    "E"
+   ]
+  },
+  {
+   "rep": "Choose your one rep for December and tell one person.",
+   "real": false,
+   "area": "Commitment",
+   "title": "Set the Week Live #4: Month Two Kickoff",
+   "hook_text": "Sunday Live: month two starts now.",
+   "hook_spoken": "",
+   "beats": [
+    "0-3: month-one celebration, counter, names.",
+    "3-10: what we learned doing life's reps together.",
+    "10-17: live rep: choose your December rep and tell one person (tag them in the comments).",
+    "17-20: invite new people. 'For the people doing the work.'"
+   ],
+   "shots": [
+    "Live setup H",
+    "Clip for Monday"
+   ],
+   "caption": "Tonight 7 PM: Month Two Kickoff Live. Bring a friend.",
+   "extras": "BONUS: Master Script 09 'For the People Doing the Work'. Rebuild the calendar for month two.",
+   "date": "2026-12-06",
+   "weekday": "Sun",
+   "week": 3,
+   "series": "SET THE WEEK",
+   "format": "IG Live + Facebook Group Live, 20 min; then a 30s clip",
+   "time": "7:00 PM Live",
+   "setups": [
+    "H"
+   ]
+  }
+ ]
+}
